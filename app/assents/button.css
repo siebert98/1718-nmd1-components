@@ -1,0 +1,28 @@
+.btn {
+   
+    border-radius: 8px;
+
+    
+    padding: 8px 16px;
+    text-decoration: none;
+}
+.btn:hover {
+
+    background: rgb(16, 15, 92);
+}
+.btn-primary {
+    background: blue;
+    color: aqua;
+}
+.btn-primary:hover {
+
+}
+
+.btn-secundairy {
+    background: rgb(255, 51, 119);
+    color: rgb(251, 255, 0);
+}
+
+.btn-secundairy:hover {
+
+}
